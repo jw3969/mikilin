@@ -1,5 +1,8 @@
 # mikilin
 用于存放一些学习过程中的代码
-适用于sd10上的win11系统使用
 rebuild
 test for linux ubuntu
+
+修改终端中的代理
+$env:HTTP_PROXY="http://127.0.0.1:7890"
+$env:HTTPS_PROXY="http://127.0.0.1:7890"
