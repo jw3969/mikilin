@@ -14,6 +14,7 @@ mac配置
     - git
     - zsh-autosuggestions
     - zsh-syntax-highlighting
+    - macmon (监测)
   - chrome/clash/telegram
   - typora/word3件套/updf
   - qq/微信/腾讯会议
