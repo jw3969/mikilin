@@ -1,6 +1,2 @@
 # 忽略 .vscode 下的所有文件
 .vscode/*
-
-# 但保留这两个需要共享的配置文件
-!.vscode/launch.json
-!.vscode/tasks.json
