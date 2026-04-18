@@ -27,6 +27,7 @@ mac配置
     - betterdisplay
     - loop
   - cleanmymac
+  - FineTune声音输出路径编辑器
   - 科大云盘
   - vscode/cursor/pycharm
   - 达芬奇/permute/downie
