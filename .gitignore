@@ -1,2 +1,3 @@
 # 忽略 .vscode 下的所有文件
 .vscode/*
+.DS_store
