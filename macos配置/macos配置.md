@@ -33,7 +33,10 @@ mac软件配置
   - raycast
   - obsidian
   - orbstack
+  - whatcable
 - fifth
   - vscode/pycharm
   - 达芬奇/permute/downie
   - latex
+  - cherry studio
+  - 函数绘图工具
